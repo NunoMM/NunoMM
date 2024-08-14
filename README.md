@@ -18,7 +18,7 @@ Let's connect and create something amazing together!
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NunoMM&show_icons=true&theme=dark&title_color=79ff97&icon_color=79ff97" alt="NunoMM Stats" width="50%"/>
-  <br/><br/><br/><br/><br/><br/>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NunoMM&theme=dark&title_color=79ff97&currStreakNum=ff6d00&sideLabels=039be5&ring=ffc107" alt="NunoMM Streak Stats" width="50%"/>
 </p>
 <br>
