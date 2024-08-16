@@ -52,8 +52,8 @@ Let's connect and create something amazing together!
 
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/NunoMM/Repository1" title="Repository1"><img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/NunoMM/Repository2" title="Repository2"><img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/NunoMM/Folder-Synchronization" title="Repository1"><img align="left" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/NunoMM/NunoMM" title="Repository2"><img align="right" width="45%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
