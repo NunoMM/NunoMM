@@ -53,7 +53,7 @@ Let's connect and create something amazing together!
 <br>
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/NunoMM/Folder-Synchronization" title="Folder-Synchronization">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=Folder-Synchronization&theme=github_dark&border_radius=10&show_owner=true&description=true">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=Folder-Synchronization&theme=github_dark&border_radius=10&show_owner=true&description=true">
   </a>
 </div>
 <br/>
