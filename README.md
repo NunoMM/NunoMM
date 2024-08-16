@@ -51,15 +51,15 @@ Let's connect and create something amazing together!
 ### 🚀 Featured Projects:
 
 <br>
-<div style="display: flex; justify-content: center; gap: 2%; width: 100%;">
-  <a href="https://github.com/NunoMM/Folder-Synchronization" title="Folder-Synchronization" style="flex: 1;">
-    <img width="100%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=Folder-Synchronization&theme=react&border_color=61dafb&border_radius=10">
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/NunoMM/Folder-Synchronization" title="Folder-Synchronization">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=Folder-Synchronization&theme=github_dark&border_radius=10">
   </a>
-  <a href="https://github.com/NunoMM/NunoMM" title="NunoMM" style="flex: 1;">
-    <img width="100%" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=NunoMM&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/NunoMM/NunoMM" title="NunoMM">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=NunoMM&repo=NunoMM&theme=github_dark&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <p align="center">
   🔍 <a href="https://github.com/NunoMM?tab=repositories" style="text-decoration: none; color: #58A6FF;">Show More</a> 🔍
